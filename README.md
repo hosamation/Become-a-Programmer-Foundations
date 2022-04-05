@@ -3,7 +3,7 @@
 **[Become a Programmer - Foundations][1]** is the first part of **[Kalbonyan Elmarsos][2]** Competition
 
 
-- [ ] 01 [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
+- [x] 01 [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) => [Repo Link](https://github.com/hosamation/Programming-Foundations-Fundamentals)
 
 - [ ] 02 [Programming Foundations: Beyond the Fundamentals](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
 
