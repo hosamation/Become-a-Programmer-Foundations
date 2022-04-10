@@ -31,7 +31,7 @@
 
 - [ ] 14 [Programming Foundations: Fuzzy Logic](https://www.linkedin.com/learning/programming-foundations-fuzzy-logic?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional
 
-- [ ] 15 [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code)
+- [x] 15 [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) => [Repo Link](https://github.com/hosamation/Git-Essential-Training-The-Basics)
 
 
 [1]: https://www.linkedin.com/learning/paths/become-a-programmer-foundations
