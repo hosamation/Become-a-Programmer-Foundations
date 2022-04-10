@@ -33,6 +33,8 @@
 
 - [x] 15 [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) => [Repo Link](https://github.com/hosamation/Git-Essential-Training-The-Basics)
 
+- [x] 16 [Learning GitHub](https://www.linkedin.com/learning/learning-github) => [Repo Link](https://github.com/hosamation/Learning-GitHub)
+
 
 [1]: https://www.linkedin.com/learning/paths/become-a-programmer-foundations
 
