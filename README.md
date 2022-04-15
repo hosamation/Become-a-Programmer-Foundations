@@ -1,5 +1,4 @@
 # Become a Programmer: Foundations
-
 **[Become a Programmer - Foundations][1]** is the first part of **[Kalbonyan Elmarsos][2]** Competition
 
 
@@ -7,7 +6,7 @@
 
 - [x] 02 [Programming Foundations: Beyond the Fundamentals](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) => [Repo Link](https://github.com/hosamation/Programming-Foundations-Beyond-the-Fundamentals)
 
-- [ ] 03 [Programming Foundations: Real-World Examples](https://www.linkedin.com/learning/programming-foundations-real-world-examples?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional
+- [x] 03 [Programming Foundations: Real-World Examples](https://www.linkedin.com/learning/programming-foundations-real-world-examples?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional => [Repo Link](https://github.com/hosamation/Programming-Foundations-Real-World-Examples)
 
 - [ ] 04 [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
 
