@@ -10,7 +10,7 @@
 
 - [x] 04 [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) => [Repo Link](https://github.com/hosamation/Programming-Foundations-Object-Oriented-Design)
 
-- [ ] 05 [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
+- [x] 05 [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) => [Repo Link](https://github.com/hosamation/Programming-Foundations-Algorithms)
 
 - [ ] 06 [Programming Foundations: Design Patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
 
