@@ -12,7 +12,7 @@
 
 - [x] 05 [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) => [Repo Link](https://github.com/hosamation/Programming-Foundations-Algorithms)
 
-- [ ] 06 [Programming Foundations: Design Patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
+- [x] 06 [Programming Foundations: Design Patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) => [Repo Link](https://github.com/hosamation/Programming-Foundations-Design-Patterns)
 
 - [ ] 07 [Programming Foundations: Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
 
