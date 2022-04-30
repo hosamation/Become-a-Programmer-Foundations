@@ -24,7 +24,7 @@
 
 - [x] 11 [Programming Foundations: Test-Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional => [Repo Link](https://github.com/hosamation/Programming-Foundations-Test-Driven-Development)
 
-- [ ] 12 [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/programming-foundations-software-testing-qa?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
+- [x] 12 [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/programming-foundations-software-testing-qa?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) => [Repo Link](https://github.com/hosamation/Programming-Foundations-Software-Testing-QA)
 
 - [ ] 13 [Programming Foundations: Secure Coding](https://www.linkedin.com/learning/programming-foundations-secure-coding?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional
 
