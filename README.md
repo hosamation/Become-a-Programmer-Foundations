@@ -26,7 +26,7 @@
 
 - [x] 12 [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/programming-foundations-software-testing-qa?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) => [Repo Link](https://github.com/hosamation/Programming-Foundations-Software-Testing-QA)
 
-- [ ] 13 [Programming Foundations: Secure Coding](https://www.linkedin.com/learning/programming-foundations-secure-coding?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional
+- [x] 13 [Programming Foundations: Secure Coding](https://www.linkedin.com/learning/programming-foundations-secure-coding?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional => [Repo Link](https://github.com/hosamation/Programming-Foundations-Secure-Coding)
 
 - [ ] 14 [Programming Foundations: Fuzzy Logic](https://www.linkedin.com/learning/programming-foundations-fuzzy-logic?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional
 
