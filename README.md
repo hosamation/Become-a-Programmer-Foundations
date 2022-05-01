@@ -28,7 +28,7 @@
 
 - [x] 13 [Programming Foundations: Secure Coding](https://www.linkedin.com/learning/programming-foundations-secure-coding?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional => [Repo Link](https://github.com/hosamation/Programming-Foundations-Secure-Coding)
 
-- [ ] 14 [Programming Foundations: Fuzzy Logic](https://www.linkedin.com/learning/programming-foundations-fuzzy-logic?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional
+- [x] 14 [Programming Foundations: Fuzzy Logic](https://www.linkedin.com/learning/programming-foundations-fuzzy-logic?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) - Optional => [Repo Link](https://github.com/hosamation/Programming-Foundations-Fuzzy-Logic)
 
 - [x] 15 [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) => [Repo Link](https://github.com/hosamation/Git-Essential-Training-The-Basics)
 
